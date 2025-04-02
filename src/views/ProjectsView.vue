@@ -79,25 +79,25 @@ export default {
           repoUrl: 'https://github.com/MatheusHBL/TaskListSimplified'
         },
         {
-          title: 'Landing Page',
-          description: 'Landing page moderna e responsiva para conversão.',
+          title: 'InteractivePage',
+          description: 'Um site desenvolvido para ser divertivo, com diversas mecânicas interativas.',
           technologies: ['HTML5', 'CSS3', 'JavaScript'],
           //demoUrl: '#',
-          repoUrl: 'https://github.com/'
+          repoUrl: 'https://github.com/MatheusHBL/SiteInteractives'
         },
         {
-          title: 'App de Tarefas',
-          description: 'Aplicativo para gerenciamento de tarefas diárias.',
+          title: 'Consultar Filmes',
+          description: 'Página de busca de filmes, mostrando seus dados e avalização.',
           technologies: ['Vue.js', 'Vuex', 'localStorage'],
           //demoUrl: '#',
-          repoUrl: 'https://github.com/'
+          repoUrl: 'https://github.com/MatheusHBL/ConsultarExibirFilmes'
         },
         {
-          title: 'E-commerce UI',
-          description: 'Interface de usuário para uma loja online moderna.',
+          title: 'ConsultCEP',
+          description: 'Página de consulta de CEP.',
           technologies: ['Vue.js', 'Tailwind CSS'],
           //demoUrl: '#',
-          repoUrl: 'https://github.com/'
+          repoUrl: 'https://github.com/MatheusHBL/consulta-cep'
         },
         {
           title: 'Blog Tech',

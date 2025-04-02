@@ -7,7 +7,7 @@
           <img src="@/assets/images/profile.jpg" alt="Matheus Henrique Barbosa de Lima" class="w-full h-full object-cover" />
         </div>
         <h1 class="text-3xl font-bold mb-2">Matheus Henrique Barbosa de Lima</h1>
-        <h2 class="text-xl mb-4">Front-End Developer</h2>
+        <h2 class="text-xl mb-4">Full Stack Developer</h2>
         <p class="mb-6 text-center max-w-lg">Desenvolvedor apaixonado por criar experiências web incríveis e intuitivas</p>
         <div class="flex space-x-4">
           <button @click="downloadCV" class="px-4 py-2 bg-white text-green-500 rounded-md font-medium flex items-center">
@@ -33,8 +33,12 @@
         <span class="px-3 py-1 bg-green-100 text-green-800 rounded-full text-sm">HTML5</span>
         <span class="px-3 py-1 bg-green-100 text-green-800 rounded-full text-sm">CSS3</span>
         <span class="px-3 py-1 bg-green-100 text-green-800 rounded-full text-sm">JavaScript</span>
+        <span class="px-3 py-1 bg-green-100 text-green-800 rounded-full text-sm">.NET</span>
         <span class="px-3 py-1 bg-green-100 text-green-800 rounded-full text-sm">Vue.js</span>
+        <span class="px-3 py-1 bg-green-100 text-green-800 rounded-full text-sm">React.js</span>
         <span class="px-3 py-1 bg-green-100 text-green-800 rounded-full text-sm">Tailwind CSS</span>
+        <span class="px-3 py-1 bg-green-100 text-green-800 rounded-full text-sm">MySQL</span>
+        <span class="px-3 py-1 bg-green-100 text-green-800 rounded-full text-sm">PostgreSQL</span>
       </div>
       
       <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
