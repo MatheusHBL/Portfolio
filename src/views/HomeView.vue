@@ -87,7 +87,16 @@ export default {
   name: 'HomeView',
   methods: {
     downloadCV() {
-      alert('Download do CV iniciado!');
+      //alert('Download do CV iniciado!');
+      const link = document.createElement('a');
+      // Importa o PDF diretamente
+      import('@/assets/Curriculum/CV Matheus H.pdf').then(pdfModule => {
+        link.href = pdfModule.default;
+        link.download = 'CV Matheus H.pdf';
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
+      });
     }
   }
 }

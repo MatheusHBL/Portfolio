@@ -69,41 +69,41 @@ export default {
           description: 'Website responsivo desenvolvido com Vue.js e Tailwind CSS.',
           technologies: ['Vue.js', 'Tailwind CSS', 'HTML5'],
           demoUrl: '#',
-          repoUrl: 'https://github.com/'
+          repoUrl: 'https://github.com/MatheusHBL/Portfolio'
         },
         {
-          title: 'Dashboard de Vendas',
-          description: 'Dashboard interativo com gráficos para análise de dados.',
-          technologies: ['Vue.js', 'Chart.js', 'Tailwind CSS'],
-          demoUrl: '#',
-          repoUrl: 'https://github.com/'
+          title: 'Lista de Tarefas Simplificada',
+          description: 'Uma Lista de Tarefas interativo com organização agradável.',
+          technologies: ['JavaScript', 'HTML5', 'CSS'],
+          //demoUrl: '#',
+          repoUrl: 'https://github.com/MatheusHBL/TaskListSimplified'
         },
         {
           title: 'Landing Page',
           description: 'Landing page moderna e responsiva para conversão.',
           technologies: ['HTML5', 'CSS3', 'JavaScript'],
-          demoUrl: '#',
+          //demoUrl: '#',
           repoUrl: 'https://github.com/'
         },
         {
           title: 'App de Tarefas',
           description: 'Aplicativo para gerenciamento de tarefas diárias.',
           technologies: ['Vue.js', 'Vuex', 'localStorage'],
-          demoUrl: '#',
+          //demoUrl: '#',
           repoUrl: 'https://github.com/'
         },
         {
           title: 'E-commerce UI',
           description: 'Interface de usuário para uma loja online moderna.',
           technologies: ['Vue.js', 'Tailwind CSS'],
-          demoUrl: '#',
+          //demoUrl: '#',
           repoUrl: 'https://github.com/'
         },
         {
           title: 'Blog Tech',
           description: 'Blog pessoal sobre tecnologia e desenvolvimento web.',
           technologies: ['Vue.js', 'Markdown'],
-          demoUrl: '#',
+          //demoUrl: '#',
           repoUrl: 'https://github.com/'
         }
       ]
